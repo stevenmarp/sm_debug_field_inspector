@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates xml:space="preserve">
+
+    <!-- Systray Button Template -->
+    <t t-name="sm_debug_field_inspector.Systray">
+        <div class="o_nav_entry sm-field-inspector-systray" t-on-click="onClick" title="Toggle Field Inspector (Alt+F)">
+            <i class="fa fa-search-plus"></i>
+        </div>
+    </t>
+
+</templates>
