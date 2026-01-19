@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'SM Debug Field Inspector',
-    'version': '18.0.1.0.0',
+    'version': '19.0.1.0.0',
     'category': 'Tools',
     'summary': 'Enhanced debug mode - Show field names on hover for all elements including monetary footer fields',
     'description': """
